@@ -99,6 +99,19 @@ Swipe in any direction to slide all tiles. When two tiles with the same number
 touch, they **merge into one** with double the value. Reach the **512** tile to
 win — then keep going for a higher score!
 
+## Development Environment
+
+This project was developed, built, tested, and deployed locally using:
+
+- **Device:** Microsoft Surface Pro 7
+- **Operating System:** Windows 11
+- **IDE:** Android Studio Narwhal
+- **Language:** Kotlin
+- **UI Framework:** Jetpack Compose
+- **Design System:** Material 3
+- **Build System:** Gradle Kotlin DSL
+- **Testing:** Android Emulator (API 35)
+
 ## Screenshots
 
 | In Progress State | In Progress | Win |
