@@ -27,6 +27,9 @@ pinned in `gradle/libs.versions.toml`.
 
 | Setting        | Value |
 |----------------|-------|
+| **Android Gradle Plugin** | 9.3.1 |
+| **Kotlin Version** | 2.2.10 |
+| **Gradle Wrapper** | 9.5.0 |
 | `minSdk`       | 26    |
 | `targetSdk`    | 35    |
 | `compileSdk`   | 35    |
