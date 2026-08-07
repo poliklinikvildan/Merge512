@@ -34,7 +34,7 @@ pinned in `gradle/libs.versions.toml`.
 | `targetSdk`    | 35    |
 | `compileSdk`   | 35    |
 | Orientation    | Portrait only |
-| Application ID | `com.poliklinikvildan.merge512` |
+| Android Application ID | `com.poliklinikvildan.merge512` |
 
 ## Features
 
