@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Merge512">
         <activity
-            android:name=".MainActivity"
+            android:name="com.poliklinikvildan.merge512.MainActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.Merge512">

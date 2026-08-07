@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Merge 512</string>
+    <string name="best_label">BEST</string>
+    <string name="game_over">Game Over!</string>
+    <string name="keep_going">Keep Going</string>
+    <string name="new_game">New Game</string>
+    <string name="score_label">SCORE</string>
+    <string name="swipe_instructions">Swipe to move tiles. Join the numbers to reach 512!</string>
+    <string name="try_again">Try Again</string>
+    <string name="you_win">You Win!</string>
     <style name="Theme.Merge512" parent="android:Theme.Material.NoActionBar"/>
 </resources>

@@ -5,5 +5,13 @@ drawable ic_launcher_foreground
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string best_label
+string game_over
+string keep_going
+string new_game
+string score_label
+string swipe_instructions
+string try_again
+string you_win
 style Theme.Merge512
 xml backup_rules

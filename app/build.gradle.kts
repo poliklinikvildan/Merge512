@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.game2048.app"
+    namespace = "com.poliklinikvildan.merge512"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.game2048.app"
+        applicationId = "com.poliklinikvildan.merge512"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
@@ -18,7 +18,8 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = false
+            isMinifyEnabled = true
+            isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"

@@ -92,7 +92,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vn
 		ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:5:9-35
 	android:theme
 		ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:10:9-46
-activity#com.game2048.app.MainActivity
+activity#com.poliklinikvildan.merge512.MainActivity
 ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:11:9-20:20
 	android:screenOrientation
 		ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:14:13-49
@@ -101,7 +101,7 @@ ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:11:
 	android:theme
 		ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:15:13-50
 	android:name
-		ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:12:13-41
+		ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:12:13-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\vnciv\Downloads\project\app\src\main\AndroidManifest.xml:16:13-19:29
 action#android.intent.action.MAIN
@@ -254,7 +254,7 @@ ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\trans
 		ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\transforms\261e4f01cde75823cf89c9dab0958561\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\transforms\261e4f01cde75823cf89c9dab0958561\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
-permission#com.game2048.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.poliklinikvildan.merge512.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\transforms\261e4f01cde75823cf89c9dab0958561\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\transforms\261e4f01cde75823cf89c9dab0958561\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
@@ -264,7 +264,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\transforms\261e4f01cde75823cf89c9dab0958561\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\transforms\261e4f01cde75823cf89c9dab0958561\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
-uses-permission#com.game2048.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.poliklinikvildan.merge512.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\transforms\261e4f01cde75823cf89c9dab0958561\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.15.0] C:\Users\vnciv\.gradle\caches\9.5.0\transforms\261e4f01cde75823cf89c9dab0958561\transformed\core-1.15.0\AndroidManifest.xml:26:22-94

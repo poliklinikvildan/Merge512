@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.game2048.app-mergeDebugResources-46:/values-es/values-es.xml",
+            "outputFile": "com.poliklinikvildan.merge512.app-mergeDebugResources-46:/values-es/values-es.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vnciv\\.gradle\\caches\\9.5.0\\transforms\\261e4f01cde75823cf89c9dab0958561\\transformed\\core-1.15.0\\res\\values-es\\values-es.xml",
