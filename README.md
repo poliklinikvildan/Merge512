@@ -101,6 +101,6 @@ win — then keep going for a higher score!
 
 ## Screenshots
 
-| In progress State | In Progress | Win |
+| In Progress State | In Progress | Win |
 |:---:|:---:|:---:|
 | <img src="phone_screenshot.png" width="260"> | <img src="phone_screenshot_2.png" width="260"> | <img src="phone_screenshot_3.png" width="260"> |
