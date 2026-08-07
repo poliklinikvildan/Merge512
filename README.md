@@ -11,7 +11,7 @@ A classic merge game built entirely with native Android technologies:
 ## Requirements
 
 - Android Studio **Narwhal** (or newer)
-- JDK 11+ (bundled with Android Studio)
+- JDK 17+ (bundled with Android Studio)
 - Internet access on first open (Gradle downloads dependencies)
 
 ## Open & Run
@@ -31,7 +31,7 @@ pinned in `gradle/libs.versions.toml`.
 | `targetSdk`    | 35    |
 | `compileSdk`   | 35    |
 | Orientation    | Portrait only |
-| Application ID | `com.game2048.app` |
+| Application ID | `com.poliklinikvildan.merge512` |
 
 ## Features
 
@@ -62,7 +62,7 @@ pinned in `gradle/libs.versions.toml`.
     ├── proguard-rules.pro
     └── src/main/
         ├── AndroidManifest.xml
-        ├── java/com/game2048/app/
+        ├── java/com/poliklinikvildan/merge512/
         │   ├── MainActivity.kt
         │   ├── engine/
         │   │   ├── GameEngine.kt
