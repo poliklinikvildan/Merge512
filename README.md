@@ -98,3 +98,9 @@ pinned in `gradle/libs.versions.toml`.
 Swipe in any direction to slide all tiles. When two tiles with the same number
 touch, they **merge into one** with double the value. Reach the **512** tile to
 win — then keep going for a higher score!
+
+## Screenshots
+
+| Start | In Progress | Win State |
+|:---:|:---:|:---:|
+| <img src="phone_screenshot.png" width="260"> | <img src="phone_screenshot_2.png" width="260"> | <img src="phone_screenshot_3.png" width="260"> |
